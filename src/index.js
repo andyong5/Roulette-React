@@ -8,9 +8,6 @@ ReactDOM.render(
   <React.StrictMode>
     <h1>Yelp Rouletette</h1>
     <div className="center">
-      <p>Share this link with all other players:</p>
-      <div class="msg" id="msg"></div>
-      <button id="cp_btn">Click Here to Copy Link</button>
       <App />
     </div>
   </React.StrictMode>,
