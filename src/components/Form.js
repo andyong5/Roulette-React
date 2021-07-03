@@ -1,6 +1,5 @@
 import React from "react";
 import "./Form.css";
-import List from "./List.js";
 
 export default class Form extends React.Component {
   state = {

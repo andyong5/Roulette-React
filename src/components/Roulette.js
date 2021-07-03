@@ -46,7 +46,7 @@ export default class TodoList extends React.Component {
         <div className="notCenter">
           <List
             onSubmit={this.getRestaurants}
-            category={this.state.categor}
+            category={this.state.category}
             location={this.state.location}
           />
         </div>
